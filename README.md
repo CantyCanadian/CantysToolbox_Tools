@@ -1,4 +1,4 @@
-# CantysToolbox_Core
+# CantysToolbox_Tools
 Repository containing the more complex tools I've developed for Unity. Everything is still WIP, comments and bug reports are encouraged. Requires CantysToolbox_Core to properly compile.
 
 Current To-Do List :
